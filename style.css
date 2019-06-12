@@ -1,0 +1,38 @@
+.box {
+  color: lightseagreen;
+  background: white;
+  padding: 5px;
+}
+
+.navbar {
+  height: 40px;
+  padding: 20px;
+  color: lightseagreen;
+  background: white;
+}
+/* .margin-top-80 {
+  margin-top: 80px;
+} */
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: lightseagreen;
+  background: lightslategray;
+}
+
+header {
+  background: white;
+}
+
+h6 {
+  color: black;
+}
+
+#small-image {
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+}
