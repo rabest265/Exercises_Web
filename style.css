@@ -36,3 +36,12 @@ h6 {
   height: 200px;
   margin-right: 20px;
 }
+
+#figure {
+  position: relative;
+}
+
+.table{
+  background: white;
+  color:darkblue;
+}
